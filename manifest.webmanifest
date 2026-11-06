@@ -1,0 +1,11 @@
+{
+  "name": "همراه خودرو | پژو RDi",
+  "short_name": "همراه خودرو",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf1f3",
+  "theme_color": "#17232c"
+}
